@@ -49,8 +49,8 @@ export const heroConfig = {
     playRing: '/Ellipse_2862.png',
     playIcon: '/playbutton.svg',
     pauseIcon: '/pausebutton.svg',
-    tvDesktopFrame: '/new date tv.svg',
-    tvmobileFrame: '/new mobile tv.svg',
+    tvDesktopFrame: '/new date tv.png',
+    tvmobileFrame: '/newdatemobile.png',
     footerTape: '/footertape.png',
   },
 } as const;
